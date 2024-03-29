@@ -1,0 +1,14 @@
+{
+  "name": "beyond-finesse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/the-cloudhat/beyond-finesse.git",
+  "author": "Aleksandar Babic <contact@aleksandar-babic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server src"
+  }
+}
